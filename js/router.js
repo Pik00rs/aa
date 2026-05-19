@@ -15,6 +15,7 @@ const Router = {
       case 'morning': Morning.render(container); break;
       case 'evening': Evening.render(container); break;
       case 'sos': SOS.render(container); break;
+      case 'filter': MessageFilter.render(container); break;
       default: this._renderHome(container);
     }
 
@@ -43,6 +44,12 @@ const Router = {
             <div class="text-2xl">🌙</div>
             <div class="font-medium mt-2">Routine soir</div>
             <div class="text-sm text-slate-400">~10 min</div>
+          </button>
+
+          <button onclick="Router.navigate('filter')" class="p-6 bg-slate-800 hover:bg-slate-700 rounded-lg text-left transition border border-yellow-900/50">
+            <div class="text-2xl">📱</div>
+            <div class="font-medium mt-2">Filtre de messages</div>
+            <div class="text-sm text-slate-400">Avant d'envoyer</div>
           </button>
 
           <button onclick="Router.navigate('sos')" class="p-6 bg-red-950/50 hover:bg-red-900/50 rounded-lg text-left transition border border-red-900/50">
