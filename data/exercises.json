@@ -1,0 +1,315 @@
+{
+  "regulation": {
+    "label": "Régulation",
+    "icon": "🌊",
+    "description": "Calmer le système nerveux",
+    "exercises": [
+      {
+        "title": "Cohérence cardiaque 5-5",
+        "duration": "5 min",
+        "steps": [
+          "Assis confortablement, dos droit",
+          "Inspire 5 secondes par le nez",
+          "Expire 5 secondes par la bouche",
+          "30 cycles (5 min)",
+          "Observe ce qui change dans ton corps"
+        ]
+      },
+      {
+        "title": "Méditation pleine conscience",
+        "duration": "10 min",
+        "steps": [
+          "Assis, yeux fermés ou regard doux",
+          "Porte attention à ta respiration naturelle",
+          "Quand tu pars dans une pensée, note 'pensée' et reviens au souffle",
+          "Sans jugement, encore et encore",
+          "Termine en élargissant l'attention aux sons"
+        ]
+      },
+      {
+        "title": "Body scan",
+        "duration": "15 min",
+        "steps": [
+          "Allongé, yeux fermés",
+          "Pars du sommet du crâne",
+          "Descends lentement : visage, cou, épaules, bras, torse, ventre, bassin, jambes, pieds",
+          "Sur chaque zone : observe sans changer",
+          "Si tension : respire dedans, relâche à l'expir"
+        ]
+      },
+      {
+        "title": "Tapping EFT (séquence courte)",
+        "duration": "5 min",
+        "steps": [
+          "Identifie l'émotion (anxiété, colère, peur) et son intensité (0-10)",
+          "Phrase de départ : 'Même si je ressens [émotion], je m'accepte profondément' (x3, en tapotant le côté de la main)",
+          "Tapote ensuite 7x chaque point en répétant l'émotion :",
+          "Sourcil, coin de l'œil, sous l'œil, sous le nez, menton, clavicule, sous l'aisselle, sommet du crâne",
+          "Ré-évalue l'intensité. Répète si besoin."
+        ]
+      },
+      {
+        "title": "Visualisation du lieu sûr",
+        "duration": "10 min",
+        "steps": [
+          "Ferme les yeux. Respire lentement.",
+          "Imagine un endroit où tu te sens totalement en sécurité (réel ou inventé)",
+          "Que vois-tu ? Couleurs, lumière, paysage",
+          "Qu'entends-tu ? Sons, silence",
+          "Que sens-tu ? Odeurs, température sur la peau",
+          "Ancre cette sensation. Tu peux y revenir quand tu veux."
+        ]
+      }
+    ]
+  },
+  "cognitive": {
+    "label": "Cognitif (TCC)",
+    "icon": "🧠",
+    "description": "Travailler les pensées",
+    "exercises": [
+      {
+        "title": "Restructuration d'une pensée automatique",
+        "duration": "10 min",
+        "steps": [
+          "Identifie la pensée automatique (ex: 'elle va me quitter')",
+          "Émotion ressentie + intensité (0-10)",
+          "Preuves CONCRÈTES pour cette pensée (faits, pas suppositions)",
+          "Preuves CONTRE cette pensée",
+          "Pensée alternative plus équilibrée",
+          "Ré-évalue l'émotion"
+        ]
+      },
+      {
+        "title": "Identifier une projection",
+        "duration": "5 min",
+        "steps": [
+          "Note une réaction émotionnelle forte récente",
+          "Pose-toi : qu'est-ce que j'ai INTERPRÉTÉ ?",
+          "Quels sont les FAITS bruts (sans interprétation) ?",
+          "Quelles autres interprétations possibles ?",
+          "Cette projection vient d'où dans mon histoire ?"
+        ]
+      },
+      {
+        "title": "Challenger une croyance toxique",
+        "duration": "15 min",
+        "steps": [
+          "Énonce la croyance (ex: 'je suis insuffisant')",
+          "Depuis quand je la porte ? D'où vient-elle ?",
+          "Quelles preuves la contredisent dans ma vie ?",
+          "Si un ami me disait ça de lui, je répondrais quoi ?",
+          "Reformulation plus juste de cette croyance"
+        ]
+      },
+      {
+        "title": "Reformulation : pulsion → besoin",
+        "duration": "5 min",
+        "steps": [
+          "Quelle pulsion ressens-tu ? (envoyer message, check, etc.)",
+          "Quel est le besoin RÉEL derrière ?",
+          "Réassurance ? Connexion ? Contrôle ? Soulagement ?",
+          "Comment répondre à ce besoin SANS la pulsion ?",
+          "Note l'alternative"
+        ]
+      },
+      {
+        "title": "Auto-compassion vs auto-critique",
+        "duration": "10 min",
+        "steps": [
+          "Note une critique que tu te fais",
+          "Reformule-la comme un ami bienveillant te parlerait",
+          "Qu'est-ce qui est juste dans la critique ? Qu'est-ce qui est trop ?",
+          "Quel ton tu prendrais pour un proche dans la même situation ?",
+          "Adresse-toi cette version-là"
+        ]
+      }
+    ]
+  },
+  "trauma": {
+    "label": "Trauma / blessures",
+    "icon": "💚",
+    "description": "Soin de l'enfant intérieur",
+    "exercises": [
+      {
+        "title": "Reparenting interne",
+        "duration": "15 min",
+        "steps": [
+          "Identifie une émotion d'enfant qui remonte (peur d'abandon, honte, etc.)",
+          "Visualise-toi enfant à l'âge où cette blessure s'est formée",
+          "Qu'aurait-il eu besoin d'entendre à ce moment-là ?",
+          "Dis-le lui maintenant. À voix haute si possible.",
+          "Reste avec lui quelques minutes en silence"
+        ]
+      },
+      {
+        "title": "Dialogue avec l'enfant intérieur",
+        "duration": "15 min",
+        "steps": [
+          "Prends une feuille (ou écris ici, ou parle à voix haute)",
+          "L'adulte demande : 'Petit moi, qu'est-ce que tu ressens là ?'",
+          "L'enfant répond (laisse venir, sans censure)",
+          "L'adulte écoute, valide, ne minimise pas",
+          "L'adulte demande : 'De quoi as-tu besoin ?'",
+          "L'adulte s'engage à lui offrir ça"
+        ]
+      },
+      {
+        "title": "Méditation Loving-Kindness (Metta)",
+        "duration": "15 min",
+        "steps": [
+          "Assis confortablement, yeux fermés",
+          "Toi d'abord : 'Que je sois en sécurité, en paix, libre de la souffrance'",
+          "Un proche aimé : même phrase, en pensant à lui",
+          "Une personne neutre (inconnu croisé)",
+          "Une personne difficile (commencer doucement)",
+          "Tous les êtres : 'Que tous les êtres soient en paix...'"
+        ]
+      },
+      {
+        "title": "Lettre à soi-même (enfant blessé)",
+        "duration": "20 min",
+        "steps": [
+          "Écris une lettre à ton toi de 8 ans, ou 12, ou l'âge clé de blessure",
+          "Dis-lui ce que personne ne lui a dit",
+          "Reconnais ce qu'il a vécu, sans le minimiser",
+          "Dis-lui que tu es là maintenant, adulte, et que tu le protèges",
+          "Garde la lettre dans la bibliothèque (section Lettres)"
+        ]
+      },
+      {
+        "title": "Identifier un schéma précoce (Young)",
+        "duration": "15 min",
+        "steps": [
+          "Lis les schémas : abandon, méfiance, manque affectif, défectuosité, dépendance, vulnérabilité, échec, exigences élevées, punition, isolement",
+          "Lequel résonne le plus fort en ce moment ?",
+          "Souviens-toi d'une scène d'enfance où ce schéma s'est installé",
+          "Comment ce schéma se manifeste dans ta vie adulte (couple, travail, amis) ?",
+          "Quelle serait l'attitude opposée et saine ?"
+        ]
+      }
+    ]
+  },
+  "learning": {
+    "label": "Apprentissage",
+    "icon": "📖",
+    "description": "Comprendre pour mieux agir",
+    "exercises": [
+      {
+        "title": "Lire sur l'attachement anxieux",
+        "duration": "20 min",
+        "steps": [
+          "Ressources : 'L'amour qui rend libre' (Levine), 'Adulte HPI ou TDAH ?' (Lebowski)",
+          "Ou article web : tape 'attachement anxieux Levine' sur Google",
+          "Lis 15-20 min, note 3 phrases qui résonnent",
+          "Ajoute-les dans Bibliothèque > Phrases ressources",
+          "Identifie 1 chose à appliquer cette semaine"
+        ]
+      },
+      {
+        "title": "Vidéo : neurobiologie de l'attachement",
+        "duration": "30 min",
+        "steps": [
+          "YouTube : Boris Cyrulnik, Marc Pistorio, Stan Tatkin",
+          "Choisis une vidéo (20-30 min)",
+          "Prends des notes en regardant",
+          "Identifie 1 concept-clé que tu retiens",
+          "Comment l'appliquer à ta situation actuelle ?"
+        ]
+      },
+      {
+        "title": "Étudier un concept précis",
+        "duration": "20 min",
+        "steps": [
+          "Choisis un concept : mentalisation, fenêtre de tolérance, co-régulation, attachement désorganisé, etc.",
+          "Recherche-le (Wikipedia, article psy)",
+          "Reformule-le avec tes mots dans la bibliothèque",
+          "Donne 1 exemple de ta vie où ça s'applique",
+          "Bonus : explique-le mentalement à un pote"
+        ]
+      },
+      {
+        "title": "Test ECR-R (révision)",
+        "duration": "15 min",
+        "steps": [
+          "Si pas fait depuis 3 mois : refais le test ECR-R",
+          "Cherche 'ECR-R test en ligne' (gratuit)",
+          "Note tes scores : anxiété + évitement",
+          "Compare avec la dernière fois",
+          "Sauvegarde le résultat dans Bibliothèque > Mes succès"
+        ]
+      },
+      {
+        "title": "Podcast sur la psyché",
+        "duration": "45 min",
+        "steps": [
+          "Choisis un podcast : 'Métamorphose', 'Vlan!', 'Les couilles sur la table'",
+          "Écoute en marchant ou en faisant un truc manuel",
+          "Note 1 phrase clé",
+          "Identifie 1 action concrète à tester"
+        ]
+      }
+    ]
+  },
+  "action": {
+    "label": "Action / comportement",
+    "icon": "🎯",
+    "description": "Changer par l'action",
+    "exercises": [
+      {
+        "title": "No-check : 4h sans WhatsApp",
+        "duration": "4h",
+        "steps": [
+          "Choisis un créneau de 4h aujourd'hui",
+          "Pose le téléphone hors de vue (autre pièce idéalement)",
+          "Notifications désactivées",
+          "Note dans la bibliothèque : as-tu craqué ? Quand ? Pourquoi ?",
+          "Bilan : qu'est-ce que tu as ressenti ?"
+        ]
+      },
+      {
+        "title": "Demander de l'aide à un pote",
+        "duration": "15 min",
+        "steps": [
+          "Identifie un truc qui te pèse en ce moment",
+          "Choisis 1 pote de confiance",
+          "Écris-lui : 'Hey, j'ai un truc à partager, t'as 10 min ?'",
+          "Quand il dit oui, exprime-toi vraiment (pas du surface)",
+          "Demande explicitement ce dont tu as besoin (écoute ? conseil ? juste être là ?)"
+        ]
+      },
+      {
+        "title": "Activité solo qui te nourrit",
+        "duration": "1h",
+        "steps": [
+          "Choisis une activité qui te recentre : sport, marche, musique, art, lecture",
+          "Réserve 1h dédiée, sans téléphone",
+          "Pas d'objectif de performance, juste y être",
+          "À la fin, note dans Bibliothèque > Succès si t'as tenu",
+          "Identifie comment tu te sens après vs avant"
+        ]
+      },
+      {
+        "title": "Exprimer un besoin (non-violent)",
+        "duration": "30 min",
+        "steps": [
+          "Identifie un besoin non-exprimé envers quelqu'un (couple, ami, famille)",
+          "Formule en CNV : Observation / Sentiment / Besoin / Demande",
+          "Ex: 'Quand tu mets 3h à répondre (O), je me sens anxieux (S), j'ai besoin de prévisibilité (B). Peux-tu me dire un mot quand tu seras occupé ? (D)'",
+          "Envoie le message ou prévois une discussion",
+          "Note la réaction de l'autre et la tienne"
+        ]
+      },
+      {
+        "title": "Mini-action de courage",
+        "duration": "30 min",
+        "steps": [
+          "Identifie 1 truc que tu reportes par peur (appel, démarche, rdv, conversation)",
+          "Définis l'action minimale : pas tout, juste le 1er pas",
+          "Mets un timer 25 min",
+          "Fais-le, MAINTENANT",
+          "Célèbre, même si c'est petit. C'est le système nerveux qui apprend la sécurité dans l'action."
+        ]
+      }
+    ]
+  }
+}
