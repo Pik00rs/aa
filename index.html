@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#0f172a">
+  <title>Mon Espace</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="bg-slate-900 text-slate-100 min-h-screen font-sans">
+
+  <header class="p-4 border-b border-slate-700">
+    <h1 class="text-xl font-light text-center">Mon Espace</h1>
+  </header>
+
+  <main id="app" class="p-4 max-w-2xl mx-auto"></main>
+
+  <nav class="fixed bottom-0 left-0 right-0 bg-slate-800 border-t border-slate-700">
+    <div class="flex justify-around max-w-2xl mx-auto">
+      <button data-route="home" class="nav-btn flex-1 py-3 text-sm">🏠 Accueil</button>
+      <button data-route="morning" class="nav-btn flex-1 py-3 text-sm">🌅 Matin</button>
+      <button data-route="evening" class="nav-btn flex-1 py-3 text-sm">🌙 Soir</button>
+      <button data-route="sos" class="nav-btn flex-1 py-3 text-sm bg-red-900/40">🆘 SOS</button>
+    </div>
+  </nav>
+
+  <script src="js/storage.js"></script>
+  <script src="js/router.js"></script>
+  <script src="js/modules/morning.js"></script>
+  <script src="js/modules/evening.js"></script>
+  <script src="js/modules/sos.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
